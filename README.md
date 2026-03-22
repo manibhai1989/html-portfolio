@@ -1,1 +1,1 @@
-Auther : Manish Singh Chauhan          
+Author : Manish Singh Chauhan          
